@@ -6,7 +6,6 @@ const typeDefs = gql`
     _id: ID!
     bookId: String
     authors: [String]
-    # authors: String
     description: String
     title: String
     image: String
