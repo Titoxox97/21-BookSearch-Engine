@@ -15,7 +15,7 @@ A web application allowing users to make a profile and search for books based on
   <li>Restful API</li>
   <li>GraphQL</li>
 
-##ScreenShots
+  ## ScreenShots
 
 
 ![SS-BookEng copy](https://user-images.githubusercontent.com/87781987/148629823-42481bca-d5d8-477d-abe3-9251ae4ed00e.png)
