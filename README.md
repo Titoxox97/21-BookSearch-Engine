@@ -8,6 +8,12 @@
 ## Description
 
 A web application allowing users to make a profile and search for books based on key words in the search engine. Users can save books they have viewed to their accounts so that they can view the books information anytime. 
+  
+## Technologies Used
+  
+ <li>MERN stack</li>
+  <li>Restful API</li>
+  <li>GraphQL</li>
 
 ##ScreenShots
 
